@@ -1,3 +1,3 @@
-# cub3d_21
+# cub3d_42
 
-This project is inspired by the world-famous eponymous 90’s game, which was the very first FPS ever : Wolfenstein 3D. The purpose of this project is to learn about raycasting and to make a dynamic view inside a maze in which you will have to find your way.
+Этот проект вдохновлен всемирно известной одноименной игрой 90-х годов, которая была самой первой FPS в истории: Wolfenstein 3D. Цель этого проекта - изучить рейкастинг (лучевую передачу) и сделать динамический вид внутри лабиринта, в котором вам придется искать дорогу.
